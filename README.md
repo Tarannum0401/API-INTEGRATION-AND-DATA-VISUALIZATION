@@ -23,4 +23,5 @@
 
 #SECOND OUTPUT#
 
+<img width="1400" height="600" alt="Image" src="https://github.com/user-attachments/assets/928b7a21-076c-4b20-b089-95506050cc35" />
 
